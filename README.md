@@ -1,1 +1,2 @@
-# Chess_AI
+# Chess AI
+An AI for Chess.
